@@ -4,7 +4,7 @@
 
 Este proyecto es un juego de aventura conversacional en el que el jugador se enfrenta a una serie de retos y desafíos que debe superar para avanzar en la historia. Un proyecto hecho en Python por pura diversión.
 
-## Instrucciones
+## Instrucciones
 
 Instalación del entorno:
 
